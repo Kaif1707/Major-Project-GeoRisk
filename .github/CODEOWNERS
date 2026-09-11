@@ -1,0 +1,5 @@
+# GeoRisk Analytics Code Owners
+* @georisk-core-team
+/frontend/ @georisk-frontend-team
+/backend/ @georisk-backend-team
+/docker/ @georisk-devops-team
